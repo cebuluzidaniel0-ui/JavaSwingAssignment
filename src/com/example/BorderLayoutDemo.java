@@ -9,7 +9,7 @@ public class BorderLayoutDemo {
         JFrame frame = new JFrame("BorderLayoutDemo");
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
-        // Set up the content pane with BorderLayout
+        // Set up the content pane with Border-Layout
         Container pane = frame.getContentPane();
         pane.setLayout(new BorderLayout());
 
